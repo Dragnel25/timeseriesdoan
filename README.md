@@ -33,7 +33,3 @@ Dưới đây là kết quả dự báo của mô hình XGBoost so với giá tr
 ## 6. Hướng dẫn chạy code
 Cài đặt các thư viện cần thiết bằng lệnh:
 pip install -r requirements.txt
-
-## 5. Hướng dẫn chạy code
-Cài đặt thư viện bằng lệnh:
-pip install -r requirements.txt
