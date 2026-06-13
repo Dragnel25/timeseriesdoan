@@ -1,4 +1,4 @@
-#1. Mô tả Bộ dữ liệu và Tiền xử lý
+# 1. Mô tả Bộ dữ liệu và Tiền xử lý
 
 ## 1.1 Thống kê chi tiết về dữ liệu gốc
 Dự án sử dụng tập dữ liệu Phụ tải điện theo giờ (Hourly Energy Consumption) thuộc mạng lưới điện American Electric Power (AEP), một trong những mạng lưới điện lớn nhất Hoa Kỳ thuộc hệ thống PJM Interconnection.
