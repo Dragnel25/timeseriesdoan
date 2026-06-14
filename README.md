@@ -35,7 +35,7 @@ Người chấm không cần chạy lại các mô hình tính toán nặng.
 
 ## 5. Biểu đồ Dự báo
 Dưới đây là kết quả dự báo của 2 kiến trúc mạng nâng cao so với đường thực tế trên tập Test:
-**![Biểu đồ](figures/y_true_vs_pred.png)
+![Biểu đồ](figures/y_true_vs_pred.png)
 
 
 ## 6. Literature Review
