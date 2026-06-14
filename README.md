@@ -35,12 +35,8 @@ Người chấm không cần chạy lại các mô hình tính toán nặng.
 
 ## 5. Biểu đồ Dự báo
 Dưới đây là kết quả dự báo của 2 kiến trúc mạng nâng cao so với đường thực tế trên tập Test:
+![Biểu đồ](figures/y_true_vs_pred.png)
 
-**Mô hình Học máy Mùa vụ (XGBoost):**
-![Biểu đồ XGBoost](figures/y_true_vs_pred.png)
-
-**Mô hình Học sâu (LSTM):**
-![Biểu đồ LSTM](figures/lstm_y_true_vs_pred.png)
 
 ## 6. Literature Review
 Chi tiết tóm tắt lý thuyết của 3 kiến trúc mạng SOTA (State-of-the-Art) được lưu trữ tại thư mục `papers/`:
