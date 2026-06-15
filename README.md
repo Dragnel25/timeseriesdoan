@@ -1,7 +1,9 @@
 # Multivariate Time Series Forecasting
 
 ## 1. Giới thiệu
-- **Sinh viên thực hiện:** Nguyễn Minh Nhật
+- **Nhóm trưởng:** Ngô Quốc Việt
+- **Thành viên:** Nguyễn Minh Nhật
+- **Thành viên:** Lê Thanh Tùng
 - **Bài toán:** Dự báo chuỗi thời gian nhiều chiều (Multivariate Time Series). Đầu vào là ma trận đặc trưng không gian - thời gian $X$, đầu ra là biến mục tiêu $y$ (Công suất phụ tải điện).
 
 ## 2. Cấu trúc Dự án & Quá trình Triển khai
